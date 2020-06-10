@@ -33,7 +33,7 @@ npm run build
 ***
 ### Blog :
 
-
+https://knaka0209.hatenablog.com/entry/lara58_29cross_vue_todo
 
 ***
 
